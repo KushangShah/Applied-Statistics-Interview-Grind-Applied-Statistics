@@ -73,4 +73,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Project Link: [https://github.com/KushangShah/Applied-Statistics-Interview-Grind-Statistics](https://github.com/KushangShah/Applied-Statistics-Interview-Grind-Applied-Statistics/blob/main/Capstone_Project_Applied_Statistics.ipynb)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
