@@ -35,7 +35,7 @@ The "Applied Statistics Interview Grind" project requires students to provide so
 Overall, completing this project not only prepares you for statistical interviews but also hones a diverse set of skills essential for success in data science and related fields.
 
 <!-- ROADMAP -->
-## Roadmap
+## Check List for DS Project.
 
 #### Solution Document:
  - [ ] Create a well-structured document with concise, accurate, and technically correct solutions.
